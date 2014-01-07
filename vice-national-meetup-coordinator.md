@@ -1,4 +1,4 @@
-# Vice National Coordinator
+# Vice National Meetup Coordinator
 
 ## What We Need Help With
 
